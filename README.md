@@ -1,11 +1,18 @@
 # 💫 About Me:
 👋 Hi, I'm Abiodun Murewa!<br><br>I’m passionate about **tech, design, and fitness.** Currently, I’m pursuing **Software Engineering** at ALX and **Computer Science** at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
 
-## 🛠️ Projects<br>- **[Lost But Found](https://github.com/Psybah/Lost-But-Found)** - A platform that connects users with their lost items, making the process of finding lost belongings easier and more efficient.<br><br>
-## 🎓 Education<br>- **Software Engineering** at ALX<br>- **Computer Science** at University of Ibadan<br><br>
-## 📫 Contact Me<br>- **Email:** [abiodunoluwamurewa@gmail.com](mailto:abiodunoluwamurewa@gmail.com)<br><br>
-## 🌱 Fun Fact<br>I'm not just into tech and design; I'm also passionate about fitness and enjoy working out regularly to stay in shape.<br><br> 
+## 🛠️ **Projects**
+- **[Lost But Found](https://github.com/Psybah/Lost-But-Found)** - A platform that connects users with their lost items, making the process of finding lost belongings easier and more efficient.
 
+## 🎓 **Education**
+- **Software Engineering** at ALX
+- **Computer Science** at University of Ibadan
+
+## 📫 **Contact Me**
+- **Email:** [abiodunoluwamurewa@gmail.com](mailto:abiodunoluwamurewa@gmail.com)
+
+## 🌱 **Fun Fact**
+I'm not just into tech and design; I'm also passionate about fitness and enjoy working out regularly to stay in shape.
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/cybersmith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cybersmith_studios/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluwamurewa/) 
