@@ -1,10 +1,10 @@
 # 💫 About Me:
 # 👋 Hi, I'm Abiodun Murewa!<br><br>I’m an 18-year-old passionate about **tech, design, and fitness.** Currently, I’m pursuing **Software Engineering** at ALX and **Computer Science** at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
-🚀 Skills & Technologies<br>- **Languages:** C, Python, SQL<br>- **Design Tools:** Figma, Photoshop, Canva<br>- **Web Development:** HTML, CSS, JavaScript<br>-[My Skills](https://skillicons.dev/icons?i=python,figma,photoshop,canva,html,css,js)<br><br>
-🛠️ Projects<br>- **[Lost But Found](https://github.com/Psybah/Lost-But-Found)** - A platform that connects users with their lost items, making the process of finding lost belongings easier and more efficient.<br><br>
-🎓 Education<br>- **Software Engineering** at ALX<br>- **Computer Science** at University of Ibadan<br><br>
-📫 Contact Me<br>- **Email:** [abiodunoluwamurewa@gmail.com](mailto:abiodunoluwamurewa@gmail.com)<br>- 
-🌱 Fun Fact<br>I'm not just into tech and design; I'm also passionate about fitness and enjoy working out regularly to stay in shape.<br><br> 
+
+#🛠️ Projects<br>- **[Lost But Found](https://github.com/Psybah/Lost-But-Found)** - A platform that connects users with their lost items, making the process of finding lost belongings easier and more efficient.<br><br>
+#🎓 Education<br>- **Software Engineering** at ALX<br>- **Computer Science** at University of Ibadan<br><br>
+#📫 Contact Me<br>- **Email:** [abiodunoluwamurewa@gmail.com](mailto:abiodunoluwamurewa@gmail.com)<br>- 
+#🌱 Fun Fact<br>I'm not just into tech and design; I'm also passionate about fitness and enjoy working out regularly to stay in shape.<br><br> 
 
 
 ## 🌐 Socials:
