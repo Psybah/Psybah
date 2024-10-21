@@ -8,9 +8,6 @@
 - **Software Engineering** at ALX
 - **Computer Science** at University of Ibadan
 
-## 📫 **Contact Me**
-- **Email:** [abiodunoluwamurewa@gmail.com](mailto:abiodunoluwamurewa@gmail.com)
-
 ## 🌱 **Fun Fact**
 I'm not just into tech and design; I'm also passionate about fitness and enjoy working out regularly to stay in shape.
 
