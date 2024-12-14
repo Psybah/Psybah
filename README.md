@@ -2,7 +2,8 @@
 👋 Hi, I'm Abiodun Murewa!<br><br>I’m passionate about **tech, design, and fitness.** Currently, I’m pursuing **Software Engineering** at ALX and **Computer Science** at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
-- **[Lost But Found](https://github.com/Psybah/Lost-But-Found)** - A platform that connects users with their lost items, making the process of finding lost belongings easier and more efficient.
+- **[Movie Databse](https://github.com/Psybah/movie-mingle-reviews)** - A single-page movie database where users can search for movies and read reviews.
+- **[Party Currency](https://github.com/Psybah/party-currency-app)** - A web app to safely and legally experience Nigerian party traditions, enabling celebrants and guests to engage in “spraying money” without violating regulations.
 
 ## 🎓 **Education**
 - **Software Engineering** at ALX
