@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abiodun Murewa!<br><br>I’m passionate about **tech, design, and fitness.** Currently, I’m pursuing **Software Engineering** at ALX and **Computer Science** at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
+👋 Hi, I'm Abiodun Murewa!<br><br>I’m passionate about **tech, design, and fitness.** Currently, I’m an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
 - **[Movie Databse](https://github.com/Psybah/movie-mingle-reviews)** - A single-page movie database where users can search for movies and read reviews.
