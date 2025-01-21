@@ -2,9 +2,9 @@
 👋 Hi, I'm Abiodun Murewa!<br><br>I’m passionate about **tech, design, and fitness.** Currently, I’m an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. I have a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
-- **[Party Currency](https://github.com/Psybah/party-currency-app)** - A web app to safely and legally experience Nigerian party traditions, enabling celebrants and guests to engage in “spraying money” without violating regulations.
-- **[StudyFlow](https://github.com/Psybah/StudyFlow)** - A study planner tailored for Nigerian university students to organize, plan, and optimize their academic workflows.
-- **[Movie Databse](https://github.com/Psybah/movie-mingle-reviews)** - A single-page movie database where users can search for movies and read reviews.
+- **[Party Currency](https://party-currency-app.vercel.app/)** - A web app to safely and legally experience Nigerian party traditions, enabling celebrants and guests to engage in “spraying money” without violating regulations.
+- **[StudyFlow](https://studyflow-five.vercel.app/)** - A study planner tailored for Nigerian university students to organize, plan, and optimize their academic workflows.
+- **[Movie Databse](https://movieminglereview.netlify.app/)** - A single-page movie database where users can search for movies and read reviews.
 
 ## 🎓 **Education**
 - **Software Engineering** at ALX
