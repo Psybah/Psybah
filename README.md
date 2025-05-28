@@ -3,13 +3,14 @@
 
 ## 🛠️ **Projects**
 - **[9jaMarkets](https://www.9jamarkets.com/)** - An e-commerce platform to enable Nigerians discover and Connect with Nigeria’s Major Markets.
+- **[Party Currency](https://party-currency-app.vercel.app/)** - A web app to safely and legally experience Nigerian party traditions, enabling celebrants and guests to engage in “spraying money” without violating regulations.
 - **[Deskhive](https://deskhive.ng/)** - A platform to help user find/book nearby workspaces in minutes, also a workspace management tool for workspace owners.
 - **[Coastal Elegance](https://www.coastalelegance.co.za/)** - A premium transportation service committed to providing luxury travel experiences.
 - **[Aroni Engineering](http://aroni-engineering.com/)** - A modern, responsive website for Aroni Engineering Services, showcasing their expertise in hydraulic, pneumatic, and agricultural engineering solutions.
 - **[Cydex](https://cydex-omega.vercel.app/)** - An ecofriendly logistics solution.
+- **[Balancee Booking System](https://balancee-booking.vercel.app/)** - Smart car booking service system, an intership task given to me by a Saas company
 - **[Cleva (My version)](https://cleava.vercel.app/home)** - A modern, user-friendly banking application that allows users to manage their finances in multiple currencies, make transfers, and access special features. Basically cloned the app in darkmode lol(My UI is better), view on a mobile phone.
 - **[Getaway Xpeditions](https://getaway-xpeditions.vercel.app/)** - A travel web application designed to inspire and enable users to find, explore, and book unique travel experiences.
-- **[Party Currency](https://party-currency-app.vercel.app/)** - A web app to safely and legally experience Nigerian party traditions, enabling celebrants and guests to engage in “spraying money” without violating regulations.
 - **[StudyFlow](https://studyflow-five.vercel.app/)** - A study planner tailored for Nigerian university students to organize, plan, and optimize their academic workflows.
 - **[Movie Databse](https://movieminglereview.netlify.app/)** - A single-page movie database where users can search for movies and read reviews.
 - **[Echobox](https://echobox-ten.vercel.app/)** - A multiformat anonymous messaging platform.
