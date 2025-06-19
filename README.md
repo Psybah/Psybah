@@ -8,6 +8,7 @@
 - **[Coastal Elegance](https://www.coastalelegance.co.za/)** - A premium transportation service committed to providing luxury travel experiences.
 - **[Aroni Engineering](http://aroni-engineering.com/)** - A modern, responsive website for Aroni Engineering Services, showcasing their expertise in hydraulic, pneumatic, and agricultural engineering solutions.
 - **[Cydex](https://cydex-omega.vercel.app/)** - An ecofriendly logistics solution.
+- **[StartupGPT](https://startupgpt.vercel.app/)** - An AI Legal Partner for Nigerian Startups
 - **[Balancee Booking System](https://balancee-booking.vercel.app/)** - Smart car booking service system, an intership task given to me by a Saas company
 - **[Cleva (My version)](https://cleava.vercel.app/home)** - A modern, user-friendly banking application that allows users to manage their finances in multiple currencies, make transfers, and access special features. Basically cloned the app in darkmode lol(My UI is better), view on a mobile phone.
 - **[Getaway Xpeditions](https://getaway-xpeditions.vercel.app/)** - A travel web application designed to inspire and enable users to find, explore, and book unique travel experiences.
