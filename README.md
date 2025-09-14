@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Yo, I'm Abiodun Murewa!<br><br>Teen with huge dreams, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathon enthusiast, Badass Designer with a solid background in **Graphic Design, Brand Identity, UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
+👋 Yo, I'm Abiodun Murewa!<br><br>Teen with huge dreams, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathon enthusiast, badass designer/dev with a solid background in **UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
 
