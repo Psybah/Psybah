@@ -6,7 +6,7 @@
 | Name | Description | Status | Achievements |
 |------|-------------|--------|--------------|
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
-| [Party Currency](https://party-currency-app.vercel.app/) | Legal digital solution for Nigerian party money-spraying traditions | Collaborative | - |
+| [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
 | [Coastal Elegance](https://www.coastalelegance.co.za/) | Premium luxury transportation service website | Solo | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
