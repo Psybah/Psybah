@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Yo, I'm Abiodun Murewa!<br><br>Teen with huge dreams, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathon enthusiast, badass designer/dev with a solid background in **UI/UX Design,** and **Web Development** with hands-on experience from various projects and internships.<br><br>
+👋 Yo, I'm Abiodun Murewa!<br><br>Teen with huge dreams, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathon enthusiast, badass designer/dev with a solid background in **UI/UX Design,** and **Software Engineering** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
 
@@ -7,6 +7,7 @@
 |------|-------------|--------|--------------|
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
+| [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
 | [Coastal Elegance](https://www.coastalelegance.co.za/) | Premium luxury transportation service website | Solo | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
