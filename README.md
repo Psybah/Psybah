@@ -8,18 +8,16 @@
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
-| [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
+| [Devcloud](https://devcloudpartners.com/) | Website for a cloudsolutions company | Solo | - |
+| [Dokia](https://dokia.org/) | Healthcare inventory management system | Solo | 🏆 |
+| [Fifty Wellness](https://fifty-wellness.vercel.app/) | Landing page for a wellness organiztion | Solo | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
-| [Coastal Elegance](https://www.coastalelegance.co.za/) | Premium luxury transportation service website | Solo | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
 | [Cydex](https://cydex-omega.vercel.app/) | Eco-friendly logistics solution | Collaborative | 🏆 |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
-| [Balancee Booking System](https://balancee-booking.vercel.app/) | Smart car booking system (internship project) | Solo | 🏆 |
+| [Balancee Booking System](https://balancee-booking.vercel.app/) | Smart car booking system (internship application project) | Solo | 🏆 |
 | [Cleva (My version)](https://cleava.vercel.app/home) | Multi-currency banking app clone with enhanced dark mode UI | Solo | 🏆 |
-| [Getaway Xpeditions](https://getaway-xpeditions.vercel.app/) | Travel platform for discovering and booking unique experiences | Collaborative | - |
-| [StudyFlow](https://studyflow-five.vercel.app/) | Academic planner for Nigerian university students | Solo | 🏆 |
 | [Movie Database](https://movieminglereview.netlify.app/) | Movie database with search and review features | Solo | - |
-| [Echobox](https://echobox-ten.vercel.app/) | Anonymous multi-format messaging platform | Collaborative | - |
 
 ## 🎓 **Education**
 - **Software Engineering** at ALX
