@@ -13,7 +13,7 @@
 | [Fifty Wellness](https://fifty-wellness.vercel.app/) | Landing page for a wellness organiztion | Solo | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
-| [Cydex](https://cydex-omega.vercel.app/) | Eco-friendly logistics solution | Collaborative | 🏆 |
+| [Cydex](https://usecydex.com/) | Eco-friendly logistics solution | Collaborative | 🏆 |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Balancee Booking System](https://balancee-booking.vercel.app/) | Smart car booking system (internship application project) | Solo | 🏆 |
 | [Cleva (My version)](https://cleava.vercel.app/home) | Multi-currency banking app clone with enhanced dark mode UI | Solo | 🏆 |
