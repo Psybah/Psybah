@@ -7,6 +7,7 @@
 |------|-------------|--------|--------------|
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
+| [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
 | [Dokia](https://dokia.org/) | Healthcare inventory management system | Solo | 🏆 |
