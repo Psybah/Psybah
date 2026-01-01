@@ -1,18 +1,19 @@
 # 💫 About Me:
-👋 Yo, I'm Cybersmith!<br><br>Dude with huge goals, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathonaholic, badass designer/dev with a solid background in **UI/UX Design,** and **Software Engineering** with hands-on experience from various projects and internships.<br><br>
+👋 Yo, I'm Cybersmith!<br><br>Dude with huge goals, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathonaholic(6x winner), badass designer/dev with a solid background in **UI/UX Design,** and **Software Engineering** with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
 
 | Name | Description | Status | Achievements |
 |------|-------------|--------|--------------|
-| [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
+| [CityPulse](https://citypulse-zeta.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Solo | 🏆Soon |
 | [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
 | [Dokia](https://dokia.org/) | Healthcare inventory management system | Solo | 🏆 |
 | [Fifty Wellness](https://fifty-wellness.vercel.app/) | Landing page for a wellness organiztion | Solo | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
+| [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
 | [Cydex](https://usecydex.com/) | Eco-friendly logistics solution | Collaborative | 🏆 |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
