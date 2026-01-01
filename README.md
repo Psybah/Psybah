@@ -8,6 +8,7 @@
 | [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
 | [CityPulse](https://citypulse-zeta.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Solo | 🏆Soon |
 | [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
+| [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
 | [Dokia](https://dokia.org/) | Healthcare inventory management system | Solo | 🏆 |
@@ -16,7 +17,6 @@
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
 | [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
 | [Cydex](https://usecydex.com/) | Eco-friendly logistics solution | Collaborative | 🏆 |
-| [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Balancee Booking System](https://balancee-booking.vercel.app/) | Smart car booking system (internship application project) | Solo | 🏆 |
 | [Cleva (My version)](https://cleava.vercel.app/home) | Multi-currency banking app clone with enhanced dark mode UI | Solo | 🏆 |
 | [Movie Database](https://movieminglereview.netlify.app/) | Movie database with search and review features | Solo | - |
