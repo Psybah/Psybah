@@ -22,12 +22,10 @@
 | [Movie Database](https://movieminglereview.netlify.app/) | Movie database with search and review features | Solo | - |
 
 ## 🎓 **Education**
-- **Software Engineering** at ALX
+- **[Certified Software Engineer](https://drive.google.com/file/d/1WetK7xjda1vN6ors9HhNpvax-vU1eSEn/view?usp=sharing)** at ALX
 - **Computer Science** at University of Ibadan
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/cybersmith) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cybersmith_studios/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluwamurewa/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/_cybersmith)
 
@@ -44,7 +42,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=Psybah&icon=0&color=13)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Psybah&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
