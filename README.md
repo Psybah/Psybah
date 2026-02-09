@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Cybersmith!<br><br>Dude with huge goals, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathonaholic(6x winner), badass designer/dev with a solid background in **UI/UX Design,** and **Software Engineering** with hands-on experience from various projects and internships.<br><br>
+I'm Cybersmith!<br><br>Dude with huge goals, passionate about **tech, design, and fitness.** I'm an ALX cerified **Software Engineer** and a **Computer Science** student at the University of Ibadan. Hackathonaholic(6x winner), badass designer/dev with hands-on experience from various projects and internships.<br><br>
 
 ## 🛠️ **Projects**
 
