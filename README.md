@@ -5,10 +5,10 @@ I'm Cybersmith!<br><br>Dude with huge goals, passionate about **tech, design, an
 
 | Name | Description | Status | Achievements |
 |------|-------------|--------|--------------|
-| [UniNav](https://uninav.live/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
+| [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
+| [UniNav](https://uni-nav.vercel.app/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
 | [CityPulse](https://city-pulse-lyart.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Solo | 🏆Soon |
 | [AutoGPA](https://autogpa.vercel.app) | Calculate your semester and cumulative GPA fast & Automatically. | Solo | - |
-| [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
