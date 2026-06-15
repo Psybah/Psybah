@@ -11,7 +11,7 @@ I build across **mobile, frontend, and backend** to ship complete products, and 
 |------|-------------|--------|--------------|
 | [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
 | [E-library](https://bams-archive.vercel.app/) | Private digital archive for the Bowen Association of Medical Students executive council. | Solo | For Sale |
-| [UniNav](https://uni-nav.vercel.app/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
+| [UniNav](https://uninav.tech/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
 | [CityPulse](https://city-pulse-lyart.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Solo | 🏆Soon |
 | [AutoGPA](https://autogpa.vercel.app) | Calculate your semester and cumulative GPA fast & Automatically. | Solo | - |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
