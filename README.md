@@ -48,7 +48,7 @@ I build across **mobile, frontend, and backend** to ship complete products, and 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=Psybah&icon=0&color=13)](https://visitcount.itsvg.in)
+[![Visitor Count](https://komarev.com/ghpvc/?username=Psybah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
