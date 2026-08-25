@@ -14,7 +14,8 @@ I build across **mobile, frontend, and backend** to ship complete products, and 
 | [Pantry](https://pantryhq.co/) | Turn Any Food Video Online into a Grocery Cart | Solo | - |
 | [E-library](https://bams-archive.vercel.app/) | Private digital archive for the Bowen Association of Medical Students executive council. | Solo | For Sale |
 | [UniNav](https://uninav.tech/) | A study platform that organizes & simplifies resource discovery for students. | Collaborative | - |
-| [CityPulse](https://city-pulse-lyart.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Solo | 🏆Soon |
+| [Mamacare](https://mamacaresitters.com/) | Find Trusted Nannies for Your Precious Ones. | Solo | - |
+| [CityPulse](https://city-pulse-lyart.vercel.app/) | Real-time civic infrastructure monitoring platform designed for government agencies | Collaborative | 🏆Soon |
 | [AutoGPA](https://autogpa.vercel.app) | Calculate your semester and cumulative GPA fast & Automatically. | Solo | - |
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
