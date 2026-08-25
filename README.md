@@ -9,6 +9,7 @@ I build across **mobile, frontend, and backend** to ship complete products, and 
 
 | Name | Description | Status | Achievements |
 |------|-------------|--------|--------------|
+| [Alvacore](https://www.alvacoreai.com/) | Alvacore builds speech AI for Nigerian English, Pidgin and the languages after them | Solo | - |
 | [Sellawise](https://sellawise.com/) | Launch an online store in mins, Showcase products, get orders & connect with customers. | Collaborative | - |
 | [Pantry](https://pantryhq.co/) | Turn Any Food Video Online into a Grocery Cart | Solo | - |
 | [E-library](https://bams-archive.vercel.app/) | Private digital archive for the Bowen Association of Medical Students executive council. | Solo | For Sale |
