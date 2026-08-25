@@ -20,13 +20,10 @@ I build across **mobile, frontend, and backend** to ship complete products, and 
 | [StartupGPT](https://startupgpt.vercel.app/) | AI legal partner for Nigerian startups | Solo | 🏆 |
 | [Ominfy](https://omnify-cre8afrika.vercel.app/) | The Unified Creator Platform for Music, Film, and Content Distribution | Collaborative | - |
 | [Devcloud](https://devcloud-partners.vercel.app/) | Website for a cloudsolutions company | Solo | - |
-| [Dokia](https://dokia.org/) | Healthcare inventory management system | Solo | 🏆 |
 | [Fifty Wellness](https://fifty-wellness.vercel.app/) | Landing page for a wellness organiztion | Solo | - |
 | [Deskhive](https://deskhive.ng/) | Workspace booking platform with management tools for owners | Collaborative | - |
 | [9jaMarkets](https://www.9jamarkets.com/) | E-commerce platform connecting Nigerians with major local markets | Collaborative | - |
-| [Aroni Engineering](http://aroni-engineering.com/) | Engineering services website showcasing hydraulic, pneumatic & agricultural solutions | Solo | - |
 | [Cydex](https://usecydex.com/) | Eco-friendly logistics solution | Collaborative | 🏆 |
-| [Balancee Booking System](https://balancee-booking.vercel.app/) | Smart car booking system (internship application project) | Solo | 🏆 |
 | [Cleva (My version)](https://cleava.vercel.app/home) | Multi-currency banking app clone with enhanced dark mode UI | Solo | 🏆 |
 | [Movie Database](https://movieminglereview.netlify.app/) | Movie database with search and review features | Solo | - |
 
